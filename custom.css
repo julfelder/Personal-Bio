@@ -2,6 +2,10 @@ body {
   background-color: #dbdbdb;
 }
 
+#main {
+  background-color: #FFFFFF;
+}
+
 #header{
   background-color:navy;
   margin-top:15px;
